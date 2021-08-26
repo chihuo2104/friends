@@ -15,7 +15,8 @@ JSON配置
     "name":"chihuo2104の部落格",//blog名称
     "describe":"一个蒟蒻的博客",//blog描述
     "keywords":["blog"],//blog关键词
-    "img":"https://xxx.xxx/xxx.jpg"//你blog显示的照片
+    "img":"https://xxx.xxx/xxx.jpg",//你blog显示的照片
+    "site":"https://cc.cc"//你blog的网站
 }
 ```
 

@@ -1,0 +1,7 @@
+{
+    "name":"blog名称",
+    "describe":"blog描述",
+    "keywords":["blog关键词"],
+    "img":"你blog显示的照片",
+    "site":"blog的网站"
+}
